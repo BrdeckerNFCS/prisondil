@@ -397,7 +397,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     # team 6 Player 11
     elif player == 11:
         if getting_team_name:
-            return 'The loop hole of legends'
+            return 'The Loop Hole Of Legends'
         else:
             #Too OP plz nerf
             # use history, opponent_history, score, opponent_score
